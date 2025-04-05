@@ -45,4 +45,4 @@ Javascript
 
 ## Link to Deployed Application
 
-https://codercoding00.github.io/Password_Generator
+https://PurpleBird3.github.io/Password_Generator
